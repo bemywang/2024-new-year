@@ -5,8 +5,9 @@
 
 <hr>
 The UI was modified. In order to put content in the center of view. <br>
-Please find the code in `index.html` <br>
+Please find the code in `index.html`   <br>
 Line 180, I have added:
+
 ```
 <div class="center-content">
 ```

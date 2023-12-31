@@ -1,7 +1,8 @@
-# 2024-new-year
+# 2024-new-year🎆
 [Click Here on GitHub Page](https://bemywang.github.io/2024-new-year/)
 
-<img width="848" alt="image" src="https://github.com/bemywang/2024-new-year/assets/84611026/7d7d399e-6b66-4c72-a595-fbe1c4c4e2d3">
+<img width="1137" alt="image" src="https://github.com/bemywang/2024-new-year/assets/84611026/d17e8f19-1658-4892-a474-50526151eff4">
 
 <hr>
-credits: https://codepen.io/cesar2535/pen/ByYXpN
+credits: Caleb Miller: A Pen created on CodePen.io. Original URL: [https://codepen.io/MillerTime/pen/XgpNwb](https://codepen.io/MillerTime/pen/XgpNwb).
+

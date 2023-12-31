@@ -368,3 +368,7 @@ body {
 .center-content > p {
   margin-bottom: 20px;
 }
+
+#icon-setting {
+  visibility: hidden;
+}
